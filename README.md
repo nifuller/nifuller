@@ -38,7 +38,7 @@
 ## 📫 Connect with me
 - 💼 [LinkedIn](#) ← TBA
 - 📍 San Diego, CA
-- 🎓 Georgia Tech, graduating 2025
+- 🎓 Georgia Tech, graduating 2026
 - 📬 Open to entry-level Security Analyst & SOC Analyst roles
 
 ---
