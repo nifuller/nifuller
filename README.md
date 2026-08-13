@@ -1,4 +1,4 @@
-# Welcome to my GitHub! I'm Nick!
+# Welcome to Nick's GitHub!
 
 **Data Analytics student at Georgia Tech** · Aspiring Security Analyst · San Diego, CA
 
