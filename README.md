@@ -1,4 +1,4 @@
-# Hi, I'm Nick 👋
+# Welcome to my GitHub! I'm Nick!
 
 **Data Analytics student at Georgia Tech** · Aspiring Security Analyst · San Diego, CA
 
@@ -8,14 +8,14 @@
 
 ---
 
-## 🔭 What I'm working on
-- 📊 Analyzing the CICIDS2017 network intrusion dataset in Python to identify attack patterns
-- 🔐 Studying for CompTIA Security+
-- 🖥️ Learning Splunk and SIEM fundamentals via TryHackMe SOC Level 1
+##  What I'm working on
+- Analyzing the CICIDS2017 network intrusion dataset in Python to identify attack patterns
+- Studying for CompTIA Security+
+- Learning Splunk and SIEM fundamentals via TryHackMe SOC Level 1
 
 ---
 
-## 🛠️ Skills
+## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 ![SIEM](https://img.shields.io/badge/SIEM-4B0082?style=for-the-badge&logo=elastic&logoColor=white)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-2F4F4F?style=for-the-badge&logo=splunk&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network%20Security-00008B?style=for-the-badge&logo=cisco&logoColor=white)
@@ -35,11 +35,11 @@
 
 ---
 
-## 📫 Connect with me
-- 💼 [LinkedIn](#) ← TBA
-- 📍 San Diego, CA
-- 🎓 Georgia Tech, graduating 2026
-- 📬 Open to entry-level Security Analyst & SOC Analyst roles
+## Connect with me
+- [LinkedIn](#) ← TBA
+- San Diego, CA
+- Georgia Tech, graduating 2026
+- Open to entry-level Security Analyst & SOC Analyst roles
 
 ---
 
